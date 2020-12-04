@@ -4,7 +4,7 @@ Stationery List
 3. Eraser
 4. Sharpener
 
---> Drwaing Items
+--> Drawing Items
 1. Drawing Book
 2. Brushes
 3. Aryclic Paint
