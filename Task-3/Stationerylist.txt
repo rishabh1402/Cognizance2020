@@ -1,12 +1,8 @@
-Stationery List
-1. Pencil
-2. Pen
-3. Eraser
-4. Sharpener
-
 --> Drawing Items
 1. Drawing Book
 2. Brushes
 3. Aryclic Paint
 4. Water Colours
+5. Glass Paint
+6. Canvas
 
