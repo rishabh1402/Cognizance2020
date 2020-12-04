@@ -3,6 +3,7 @@ Stationery List
 2. Pen
 3. Eraser
 4. Sharpener
+5. Notebook
 
 --> Drwaing Items
 1. Drawing Book
