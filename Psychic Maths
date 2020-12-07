@@ -1,0 +1,23 @@
+#include <iostream.h>
+#include <conio.h>
+  void main()
+  {
+    clrscr();
+    int n=100, i;
+    randomize();
+    cout<<"\n Please think a number of your of choice....";
+    cout<<"\n when done, please multiply it by 2";
+    i =random(n);
+    if(i%==0)
+    {
+        cout<<"\n Now please add the number"<<i<<"into the resultant";
+        cout<<"\n If you are done, divide the reslutant number by 2";
+        cout<<"\n /n Take your time..i know no one is randomly ready for such calculations :)  ";
+        cout<<"\n So, the last step subtract the number you first thought of ";
+        cout<<"\n The most awaited the time now......The number which you first thought is ............'"<<i/2<<"'";
+        cout<<"\n Am i right??? \n OFCOUSRE I KNOW I AM RIGHT!!!";
+    }
+    getch();
+    
+
+  }
