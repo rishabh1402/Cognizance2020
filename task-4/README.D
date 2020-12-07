@@ -13,3 +13,5 @@
 2. Keep a calculator if you need.
 3. Do not diclose the numbers
 4. The least BE HONEST!!
+                       
+> THOUGHT :IT IS MAGIC UNTIL YOU UNDERSATND IT AND IT IS MATHEMATICS THEREAFTER -- BHARATI KRISHNA                       
